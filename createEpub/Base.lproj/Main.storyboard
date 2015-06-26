@@ -774,7 +774,7 @@
                                     <constraint firstAttribute="height" constant="24" id="54a-tu-hiX"/>
                                     <constraint firstAttribute="width" constant="156" id="abE-xe-Hod"/>
                                 </constraints>
-                                <textFieldCell key="cell" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" title="第[0-9一二三四五六七八九十 ]{1,10}(章|回|节).*|前\s?言\s*\n|序\s?言\s*\n|引\s?子\s*\n|楔\s?子\s*\n|序\s*\n" drawsBackground="YES" id="icf-8h-N7n">
+                                <textFieldCell key="cell" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" title="第[0-9零百一二三四五六七八九十 ]{1,10}(章|回|节).*|前\s?言\s*\n|序\s?言\s*\n|引\s?子\s*\n|楔\s?子\s*\n|序\s*\n" drawsBackground="YES" id="icf-8h-N7n">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>

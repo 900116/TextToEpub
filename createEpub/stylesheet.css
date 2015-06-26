@@ -1,0 +1,62 @@
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: #254061;
+    font-family: 方正楷体_GBK;
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    color: #4F6228;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 17pt 0 16.5pt
+    }
+.calibre4 {
+    font-family: 方正小标宋_GBK;
+    line-height: 1.2
+    }
+.calibre5 {
+    color: #C00000;
+    font-family: 宋体
+    }
+.calibre6 {
+    color:#ffffff
+    font-family: 宋体
+    }
+.MsoNormal {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.77419em;
+    text-align: center;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.77419em;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    layout-grid: 15.6pt;
+    page: WordSection1
+    }

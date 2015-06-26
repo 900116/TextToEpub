@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B3E2F2E-659E-4CB6-8070-33CA39EE0377</string>
+	<key>IDESourceControlProjectName</key>
+	<string>createEpub</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82673ABA3C8ACCBDBB69A4D3C6FCEA806DA744CF</key>
+		<string>https://github.com/900116/TextToEpub</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>createEpub.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82673ABA3C8ACCBDBB69A4D3C6FCEA806DA744CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/900116/TextToEpub</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82673ABA3C8ACCBDBB69A4D3C6FCEA806DA744CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82673ABA3C8ACCBDBB69A4D3C6FCEA806DA744CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TextToEpub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
